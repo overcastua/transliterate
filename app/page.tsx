@@ -20,7 +20,6 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Main */}
       <main className="flex-1 max-w-5xl mx-auto w-full px-6 py-10">
         <TransliteratorPanel />
       </main>
